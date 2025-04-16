@@ -1,8 +1,10 @@
 🌍 Worker Service Template ✈️
+
 Bu proje, arka plan işlemlerinde kullandığımız servis yazılımının şablonudur. 
 
 
 🚀 Projede Kullanılan Teknolojiler
+
 🛠️ .NET Core: Proje, bu .NET 8 'i kullanır.
 🔑 Loglama: Projede SeriLog ile dosyaya loglama işlemi kullanılmıştır.
 ✨ Uygulama Ayarları: Uygulamada kullanılacak değerlerin appsettings.json üzerinden alınması sağlanmıştır.
